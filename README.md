@@ -64,4 +64,3 @@
 ###
 
 
-<img src="https://raw.githubusercontent.com/VrajPatel-3010/VrajPatel-3010/output/snake.svg" alt="Snake animation" />
